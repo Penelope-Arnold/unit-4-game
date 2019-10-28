@@ -1,0 +1,66 @@
+body {
+    background-image: url("assets/images/abstract-2055567_1920.jpg");
+    background-repeat: repeat;
+}
+
+#title{
+width: 300px;
+padding: 5px;
+margin-bottom: 8px;
+color: black;
+background-color: cornflowerblue;
+}
+
+#rules{
+width: 400px;
+padding: 5px;
+margin-bottom: 8px;
+color: black;
+background-color: pink;
+}
+
+#game{
+overflow: auto;
+}
+
+#game div{
+float: left;
+}
+
+#random{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    margin-bottom: 8px;
+    color: black;
+    background-color: skyblue;
+}
+
+#win-loss{
+    width: 100px;
+    height:200px;
+    padding: 5px;
+    margin-bottom: 8px;
+    margin-left: 10px;
+    color: black;
+    background-color: lightskyblue;
+}
+
+#score-title{
+    width: 200px;
+    height: 200 px;
+    padding: 5px;
+    margin-bottom: 8px;
+    color: black;
+    background-color: rgb(61, 185, 235);
+}
+
+#score{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    margin-bottom: 8px;
+    color: black;
+    background-color: skyblue;
+}
+
