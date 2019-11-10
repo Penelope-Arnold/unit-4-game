@@ -1,5 +1,5 @@
 body {
-    background-image: url("assets/images/abstract-2055567_1920.jpg");
+    background-image: url("/Users/PenelopeArnold/Desktop/bootcamp/homework/unit-4-game/assets/images/abstract-2055567_1920.jpg");
     background-repeat: repeat;
 }
 
@@ -64,3 +64,13 @@ float: left;
     background-color: skyblue;
 }
 
+.crystals-button{
+    display: inline;
+    margin: 8px;
+}
+
+.crystal-image {
+    width: 80px;
+    height: 80px;
+    background-color: white;
+}
